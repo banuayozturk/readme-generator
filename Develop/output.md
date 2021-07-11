@@ -1,8 +1,9 @@
 
-<h1 align="center">READ-ME GENERATOR</h1>
+<h1 align="center">README GENERATOR</h1>
 
+![badge](https://img.shields.io/badge/license-Public Domain-brightgreen)  <br/>
 ## Description
-  THIS APPLICATION CREARES A README FILE
+  THIS APP CREATES A README FILE FOR YOUR PROJECT.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,21 +13,21 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-BLAH BLAH
+NODE PROJECTS NEEDS SOME INSTALLATIONS TO USE PLEASE WRITE THEM ALL.
 ## Usage
-CREATES READ-ME
+WRITE HERE THE FUNCTIONALITY OF YOUR APP.
 ## License
 This application is covered by the Public Domain license. 
 
 ## Contributors
   BANU AYOZTURK
 ## Tests
-  
+  NO TESTS INCLUDED BUT IF YOU HAVE TESTS INCLUDED PLEASE LIST THEM ALL.
 ## Questions
-  PLEASE E-MAIL ME.
+  PROVIDE THE METHODS PLEASE.
  <br/>
- Find me on GitHub: [BBB](https://github.com/BBB)
+ Find me on GitHub: [BANUAYOZTURK](https://github.com/BANUAYOZTURK)
  <br/>
- Email me with any questions: BABU@BANU.COM
+ Email me with any questions: BANU@BANU.C0M
  <br/>
   
