@@ -10,6 +10,19 @@ This application dynamically generates the README file,based on the input data. 
 
 ![generated-readme-sample](./images/screenshot.png)
 
+## Installation 
+
+Steps required to install project and how to get the development environment running:
+
+First run **npm install** in order to install the following npm package dependencies in the package.json:
+
+- <i>inquirer</i> that will prompt you for your inputs from the command line
+- <i>utils</i> to print the answers (strings) 
+
+Invoked the application with **node index.js**.
+
+
+
 ## Usage
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your your project.
