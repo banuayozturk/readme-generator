@@ -2,7 +2,7 @@
 <h1 align="center">README GENERATOR</h1>
 
 ## Description
-  PLEASE, WRITE A BRIEF DESCRIPTION OF YOUR PROJECT, HERE.
+  PLEASE WRITE A BRIEF DESCRIPTION HERE
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,18 +12,18 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-NODE PROJECTS NEED SOME INSTALLATIONS . PLEASE DESCRIBE THEM.
+PLEASE DESCRIBE THE INSTALLATION STEPS
 ## Usage
-TELL US ABOUT THE FUNCTIONALITY OF YOUR PROJECT.
+DESCRIBE THE FUNCTIONALITY
 ## License
 This application is covered by the Public Domain license. 
 
 ## Contributors
   BANU AYOZTURK
 ## Tests
-  IF YES MAKE THEM ALL CLEAR.
+  NO
 ## Questions
-  GIVE METHODS HOW USER CAN REACH THE ANSWERS THEY NEED.
+  PLEASE EMAIL ME
  <br/>
  Find me on GitHub: [BANUAYOZTURK](https://github.com/BANUAYOZTURK)
  <br/>
