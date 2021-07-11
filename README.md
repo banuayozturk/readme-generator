@@ -6,6 +6,10 @@ I created a command-line application, that runs with node.js, to generate a READ
 
 This application dynamically generates the README file,based on the input data. You can check out output.md file in this repo as an example.
 
+## Screenshot
+
+![generated-readme-sample](./images/screenshot.png)
+
 ## Usage
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your your project.
