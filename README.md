@@ -8,7 +8,7 @@ This application dynamically generates the README file,based on the input data. 
 
 ## Screenshot
 
-![generated-readme-sample](./images/screenshot.png)
+![generated-readme-sample](./images/screenshot.gif)
 
 ## Installation 
 
@@ -21,7 +21,7 @@ First run **npm install** in order to install the following npm package dependen
 
 Invoked the application with **node index.js**.
 
-![how-to-use]](./images/screenrecording.gif)
+![how-to-use](./images/screenrecording.png)
 
 ## Usage
 
