@@ -21,7 +21,7 @@ First run **npm install** in order to install the following npm package dependen
 
 Invoked the application with **node index.js**.
 
-![how-to-use](./images/screenrecording.gif)
+![how-to-use](./images/screenvideo.gif)
 
 ## Usage
 

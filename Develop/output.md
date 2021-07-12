@@ -1,8 +1,8 @@
 
-<h1 align="center">README GENERATOR</h1>
+<h1 align="center">TITLE</h1>
 
 ## Description
-  PLEASE WRITE A BRIEF DESCRIPTION HERE
+  ANSWER
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,21 +12,21 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-PLEASE DESCRIBE THE INSTALLATION STEPS
+ANSWER
 ## Usage
-DESCRIBE THE FUNCTIONALITY
+ANSWER
 ## License
-This application is covered by the Public Domain license. 
+This application is covered by the Apache License license. 
 
 ## Contributors
-  BANU AYOZTURK
+  ANSWER
 ## Tests
-  NO
+  ANSWER
 ## Questions
-  PLEASE EMAIL ME
+  ANSWER
  <br/>
- Find me on GitHub: [BANUAYOZTURK](https://github.com/BANUAYOZTURK)
+ Find me on GitHub: [ANSWER](https://github.com/ANSWER)
  <br/>
- Email me with any questions: BANU@BANU.COM
+ Email me with any questions: ANSWER
  <br/>
   
